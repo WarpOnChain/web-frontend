@@ -21,7 +21,7 @@ export function Community() {
         {/* Community links */}
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
           <a
-            href="https://discord.gg/warponchain"
+            href="https://discord.gg/M7rCWeEyXH"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-white/5 hover:bg-white/10 rounded-2xl p-8 transition-all duration-200 border border-white/10 text-center"

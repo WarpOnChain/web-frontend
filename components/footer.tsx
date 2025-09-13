@@ -116,7 +116,7 @@ export function Footer() {
             <ul className="space-y-3 text-sm">
               <li>
                 <a
-                  href="https://discord.gg/warponchain"
+                  href="https://discord.gg/M7rCWeEyXH"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -190,7 +190,7 @@ export function Footer() {
               <FaXTwitter className="w-4 h-4 text-gray-600" />
             </a>
             <a
-              href="https://discord.gg/warponchain"
+              href="https://discord.gg/M7rCWeEyXH"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg bg-gray-200 hover:bg-gray-300 transition-colors"

@@ -13,7 +13,7 @@ export function Navigation() {
 
   const navigationItems = [
     { name: "Docs", href: "https://docs.warponchain.com", external: true },
-    { name: "Bridge", href: "#bridge", external: false },
+    { name: "Bridge", href: "https://bridge.warponchain.com", external: true },
     { name: "Explorer", href: "https://sepolia.warpscan.org", external: true },
     { name: "Faucet", href: "https://faucet.warponchain.com", external: true },
   ];
